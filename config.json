@@ -41,7 +41,8 @@
   "backupInterval": 5000,
   "collect": true,
   "storage": [
-    "files"
+    "files",
+    "influx"
   ],
   "origin": ".*",
   "filesLocation": "./data"
